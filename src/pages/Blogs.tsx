@@ -1,4 +1,3 @@
-import React from "react";
 import FeaturedBlog from "../components/FeaturedBlog";
 
 const Blogs = () => {

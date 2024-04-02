@@ -1,4 +1,3 @@
-import React from "react";
 import Avatar, { genConfig } from "react-nice-avatar";
 
 const FeaturedBlog = () => {
